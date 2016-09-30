@@ -1,3 +1,6 @@
+![gif](https://github.com/jaikydota/Android-LoadingAnimation/blob/master/LoadingAnimation/demo-resourse/demo.gif)  
+
+
 # LoadingAnimation
 This is My first project from Github.<br>
 This Project is about with Android Animation and loading Animation.<br>
