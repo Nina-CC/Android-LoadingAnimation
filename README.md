@@ -13,4 +13,4 @@ Hi My Friends!<br>
 This is a very simple small Project. Please Download it And Copy to your Android Studio.<br>
 Using this Demo, you will know how to Achieve.<br>
 And My English is very bad, So I can only write so many.<br>
-Is this a Syntax error?<br>
+Hope there is no syntax error?<br>
